@@ -1,0 +1,88 @@
+{
+	"version":"0.3.0",
+	"dependencies" : [
+		{
+			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/acutil.lua"
+		},
+		{
+			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/json.lua"
+		},
+		{
+			"url" : "https://raw.githubusercontent.com/Tree-of-Savior-Addon-Community/AC-Util/master/src/cwapi.lua"
+		}
+	],
+	"sources" : [
+		{
+			"repo" : "torahamu/TOSAddon",
+			"twitter" : "torahamu_39"
+		},
+		{
+			"repo" : "Monogusa1244/MonogusaAddonStore",
+			"twitter" : "no1244"
+		},
+		{
+			"repo" : "writ312/myTosAddons",
+			"twitter" : "writ312"
+		},
+		{
+			"repo" : "zak1ck/ToSAddons",
+			"twitter" : "kajikumoreau"
+ 		},
+		{
+			"repo" : "chicori/TOS-Addon",
+			"twitter" : "chico_tos"
+ 		},
+		{
+			"repo" : "mythzeal/tos_addon",
+			"twitter" : "mythzeal"
+		},
+		{
+			"repo" : "levelnineteen/tos_speedrun",
+			"twitter" : "levelnineteen"
+		},
+		{
+			"repo" : "levelnineteen/tos",
+			"twitter" : "levelnineteen"
+		},
+		{
+			"repo" : "m1yur1/ToS_Addon_Binary" ,
+			"twitter" : "m1yur1"
+		},
+		{
+			"repo" : "kuronekotei/ToSAddon",
+			"twitter" : "tp_kuronekotei"
+		},
+		{
+			"repo" : "kurua/tosAddons",
+			"twitter" : "kurua0106"
+		},
+		{
+			"repo" : "Toukibi/ToSAddon",
+			"twitter" : "toukibisoft"
+		},
+		{
+			"repo" : "prusence/tos_addon",
+			"twitter" : "prusence"
+ 		},
+		{
+			"repo" : "yyyyyu/Tree-of-Savior-Addons",
+			"twitter" : "y__y__u"
+		},
+		{
+			"repo" : "pocon307/ToS_Addons" ,
+			"twitter" : "pocon_iidx"
+ 		},
+		{
+			"repo" : "R-ToS/ToS-Addon",
+			"twitter" : "r_gamejp"
+		},
+		{
+			"repo" : "suzumeiko/jToSAddon",
+			"twitter" : "suzumeiko"
+		},
+		{
+			"repo" : "weizlogy/tos",
+			"twitter" : "twihamatter"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"tosversion":"20171124",
+	"addons" : [
+		{
+			"file" : "combattimer",
+			"version" : "1.0.4",
+			"author" : "Excrulon"
+		}
+	]
+}
