@@ -1,10 +1,30 @@
 {
-	"tosversion":"20171213",
+	"tosversion":"20180110",
 	"addons" : [
 		{
 			"file" : "combattimer",
 			"version" : "1.0.4",
 			"author" : "Excrulon"
+		},
+		{
+			"file" : "battlemode",
+			"version" : "0.0.3",
+			"author" : "axjv"
+		},
+		{
+			"file" : "campwarp",
+			"version" : "1.0.0",
+			"author" : "Monogusa1244"
+		},
+		{
+			"file" : "cdtracker",
+			"version" : "3.0.9",
+			"author" : "axjv"
+		},
+		{
+			"file" : "cwmarket",
+			"version" : "1.0.3",
+			"author" : "Fiote"
 		}
 	]
 }
